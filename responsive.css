@@ -1,0 +1,21 @@
+@media all and (max-width: 565px) {
+    .header-left a {
+      float: none;
+      display: block;
+      text-align: center;
+    }
+    
+    .header-right {
+      float: none;
+    }
+
+    .footer-left p {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+      
+    .footer-right {
+        float: none;
+    }    
+}
