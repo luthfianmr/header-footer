@@ -1,4 +1,8 @@
 @media all and (max-width: 565px) {
+    header {
+      position: sticky;
+    }
+    
     .header-left a {
       float: none;
       display: block;
